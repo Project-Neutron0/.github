@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./branding/typespace-logo-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="../branding/typespace-logo-dark.png">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./branding/typespace-logo-light.png">
 </picture>
 
